@@ -8,7 +8,6 @@
             "email": "m.vahidi@greenweb.ir"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
