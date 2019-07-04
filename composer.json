@@ -1,0 +1,18 @@
+{
+    "name": "ishelperlog/is_log",
+    "description": "This is a helper function that it will save log information to database mongo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "m.vahidi",
+            "email": "m.vahidi@greenweb.ir"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ishelperlog\\is_log\\": "src/"
+        }
+    }
+}
