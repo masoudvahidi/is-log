@@ -8,7 +8,7 @@
             "email": "m.vahidi@greenweb.ir"
         }
     ],
-    "require": {},
+    "require": {"guzzlehttp/guzzle":"*"},
     "autoload": {
         "psr-4": {
             "ishelperlog\\is_log\\": "src/"
