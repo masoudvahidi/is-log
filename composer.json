@@ -12,6 +12,9 @@
     "autoload": {
         "psr-4": {
             "ishelperlog\\is_log\\": "src/"
-        }
+        },
+        "files":[
+        "/src/helper.php",
+        ]
     }
 }
