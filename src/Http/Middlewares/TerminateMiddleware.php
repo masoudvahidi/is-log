@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace ishelperlog\is_log\Http\Middlewares;
 
 use Closure;
 use Illuminate\Support\Facades\Log;
