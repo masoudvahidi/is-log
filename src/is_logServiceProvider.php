@@ -4,7 +4,7 @@ use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
 class is_logServiceProvider extends ServiceProvider{
     protected $middleware = [
-        'middlewareName' => 'Vendor\mypackage\Http\Middlewares\TerminateMiddleware'
+        'middlewareName' => 'ishelperlog\is_log\Http\Middlewares\TerminateMiddleware'
     ];
     public function boot(Router $router){
         parent::boot($router);
