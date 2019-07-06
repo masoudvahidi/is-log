@@ -14,7 +14,7 @@ class is_logServiceProvider extends ServiceProvider{
 
     }
     public function register(){
-        $file = app_path('Helpers/helperfun.php');
+        $file = app_path('helperfun.php');
         if (file_exists($file)) {
             require_once($file);
         }
