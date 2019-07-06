@@ -14,7 +14,7 @@
             "ishelperlog\\is_log\\": "src/"
         },
         "files":[
-        "/src/helper.php",
+        "/src/helper.php"
         ]
     }
 }
